@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Amadou Ba — Économiste</title>
+ <img src="photo.jpg" alt="Amadou Ba — Économiste">
 
 <meta name="description" content="Portfolio d'Amadou Ba — Économie appliquée, économétrie et analyse de données.">
 
